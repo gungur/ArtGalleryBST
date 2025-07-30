@@ -1,4 +1,4 @@
-# Art Gallery BST Implementation
+# Art Gallery Management System
 
 This implementation provides a robust foundation for managing an art gallery collection with efficient search and retrieval operations typical of BST-based systems.
 
